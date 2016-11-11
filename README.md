@@ -1,1 +1,144 @@
-# awesome-awesome
+# Awesome Awesome
+
+A curated list of awesome curated lists of many topics.
+
+一份有关“资源汇总”的列表。来源于 [Github awesome](https://github.com/search?utf8=%E2%9C%93&q=awesome-) 搜索结果的前 30 页，欢迎 [Pull requests](https://github.com/1dot75cm/awesome-awesome/pull/new/master)。
+
+
+## 资源列表, 书籍, 文章
+- [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN)
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+- [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+- [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
+- [books](https://github.com/programthink/books)
+- [free-programming-books](https://github.com/vhf/free-programming-books)
+- [awesome-programming-books](https://github.com/jobbole/awesome-programming-books)
+- [awesome-python-books](https://github.com/jobbole/awesome-python-books)
+- [awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books)
+- [web-skill-set](https://github.com/jobbole/web-skill-set)
+- [jquery-tips-everyone-should-know](https://github.com/jobbole/jquery-tips-everyone-should-know)
+- [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015)
+
+
+## JavaScript
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm)
+- awesome-nodejs: [sindresorhus](https://github.com/sindresorhus/awesome-nodejs), [vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron)
+- [awesome-react-native](https://github.com/jondot/awesome-react-native)
+- [awesome-react-components](https://github.com/brillout/awesome-react-components)
+- [awesome-react](https://github.com/enaqx/awesome-react)
+- [awesome-redux](https://github.com/xgrommx/awesome-redux)
+- awesome-wechat-weapp: [justjavac](https://github.com/justjavac/awesome-wechat-weapp), [Aufree](https://github.com/Aufree/awesome-wechat-weapp)
+
+
+## Python
+- [awesome-crawler](https://github.com/BruceDone/awesome-crawler)
+- [awesome-python](https://github.com/vinta/awesome-python)
+- [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+- [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+- [awesome-python-webapp](https://github.com/michaelliao/awesome-python-webapp)
+- [awesome-django](https://github.com/rosarior/awesome-django)
+
+
+## 语言
+- [awesome-github](https://github.com/AntBranch/awesome-github)
+- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- [awesome-ios](https://github.com/vsouza/awesome-ios)
+- [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
+- [awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation)
+- [awesome-swift](https://github.com/matteocrippa/awesome-swift)
+- [awesome-adb](https://github.com/mzlogin/awesome-adb)
+- [awesome-android](https://github.com/snowdream/awesome-android)
+- [awesome-android-cn](https://github.com/jobbole/awesome-android-cn)
+- [awesome-android-performance](https://github.com/Juude/awesome-android-performance)
+- [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture)
+- [awesome-android-testing](https://github.com/hotchemi/awesome-android-testing)
+- [awesome-java](https://github.com/akullpp/awesome-java)
+- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
+- [awesome-go](https://github.com/avelino/awesome-go)
+- [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
+- [awesome-c-cn](https://github.com/jobbole/awesome-c-cn)
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+- [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)
+- [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
+- [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
+- [awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn)
+- awesome-php: [ziadoz](https://github.com/ziadoz/awesome-php), [JingwenTian](https://github.com/JingwenTian/awesome-php)
+- [awesome-php-cn](https://github.com/jobbole/awesome-php-cn)
+- [awesome-cms](https://github.com/postlight/awesome-cms)
+- [awesome-yii2](https://github.com/forecho/awesome-yii2)
+- awesome-ruby: [Sdogruyol](https://github.com/Sdogruyol/awesome-ruby), [markets](https://github.com/markets/awesome-ruby)
+- [awesome-rails](https://github.com/ekremkaraca/awesome-rails)
+- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)
+- [awesome-elixir](https://github.com/h4cc/awesome-elixir)
+- [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
+- [awesome-scala](https://github.com/lauris/awesome-scala)
+- [awesome-haskell](https://github.com/krispo/awesome-haskell)
+- [awesome-rust](https://github.com/kud1ing/awesome-rust)
+- [awesome-clojure](https://github.com/razum2um/awesome-clojure)
+- [awesome-R](https://github.com/qinwf/awesome-R)
+
+
+## 工具, 服务
+- [awesome-lua](https://github.com/LewisJEllis/awesome-lua)
+- [awesome-shell](https://github.com/alebcay/awesome-shell)
+- [awesome-bash](https://github.com/awesome-lists/awesome-bash)
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
+- [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn)
+- [awesome-cmake](https://github.com/onqtam/awesome-cmake)
+- [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software)
+- [awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps)
+- [vim-awesome](https://github.com/vim-awesome/vim-awesome)
+- [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+- [oh-my-emacs](https://github.com/xiaohanyu/oh-my-emacs)
+- [awesome-atom](https://github.com/mehcode/awesome-atom)
+- [Awesome-CV](https://github.com/posquit0/Awesome-CV)
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker)
+- [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)
+- [awesome-serverless](https://github.com/anaibol/awesome-serverless)
+- [awesome-microservices](https://github.com/mfornos/awesome-microservices)
+- [Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)
+- [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate)
+- [awesome-resty](https://github.com/bungle/awesome-resty)  # OpenResty
+- [awesome-security](https://github.com/sbilly/awesome-security)
+- [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
+- [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
+- [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
+- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn)
+
+
+## 测试, 机器学习, 大数据
+- [awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
+- [awesome-rest](https://github.com/marmelab/awesome-rest)
+- [awesome-ddd](https://github.com/heynickc/awesome-ddd)
+- [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)
+- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
+- [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata)
+- [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
+- [awesome-unity](https://github.com/RyanNielson/awesome-unity)
+
+
+## 前端
+- [awesome-frontend](https://github.com/JingwenTian/awesome-frontend)
+- [awesome-webpack](https://github.com/d3viant0ne/awesome-webpack)
+- [awesome-html5](https://github.com/diegocard/awesome-html5)
+- [awesome-css](https://github.com/sotayamashita/awesome-css)
+- [awesome-css-cn](https://github.com/jobbole/awesome-css-cn)
+- [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox)
+- awesome-sass: [Famolus](https://github.com/Famolus/awesome-sass), [HugoGiraudel](https://github.com/HugoGiraudel/awesome-sass)
+- [awesome-d3](https://github.com/wbkd/awesome-d3)
+- [awesome-angular2](https://github.com/AngularClass/awesome-angular2)
+- [awesome-vue](https://github.com/vuejs/awesome-vue)
+- [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
+- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+- [awesome-design](https://github.com/gztchan/awesome-design)
+- [awesome-design-cn](https://github.com/jobbole/awesome-design-cn)
+- [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
+- [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
